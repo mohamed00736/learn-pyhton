@@ -1,0 +1,7 @@
+print("Welcome to Python")
+print("Lesson", 1)
+print()
+print("Python", "Java", "Kotlin", sep=" | ")
+print("Learning Python", end=" ")
+print("— one step at a time")
+print("Hello, world! — Grüße, café, naïve")
